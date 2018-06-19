@@ -12,3 +12,6 @@ Submit and print PDF
 
 
 Strongly recommand to use conda to set up virtual environment and make sure you install tensorflow in it.
+
+Captcha resolver Reference:
+ https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
